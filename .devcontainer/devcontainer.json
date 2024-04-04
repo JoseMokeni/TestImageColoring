@@ -42,7 +42,9 @@
 				"ms-toolsai.jupyter",
 				"donjayamanne.python-extension-pack",
 				"ms-azuretools.vscode-docker",
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				// vs icons
+				"vscode-icons-team.vscode-icons"
 
 			]
 		}
