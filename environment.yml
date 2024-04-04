@@ -1,0 +1,13 @@
+name: DL
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - tensorflow
+  - scikit-learn
+  - theano
+  - keras
+  - pytorch
+  - seaborn
+  - nltk
+  - cryptography
