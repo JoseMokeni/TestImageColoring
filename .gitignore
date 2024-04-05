@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+venv
+model1
+res18-unet.pt
+final_model.pt
